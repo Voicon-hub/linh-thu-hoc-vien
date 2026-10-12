@@ -1,0 +1,1602 @@
+[
+ {
+  "id": 1,
+  "code": "MON-001",
+  "name": "Hỏa Long Thiên Tôn",
+  "element": "Hỏa",
+  "element_code": "FIRE",
+  "role": "DPS",
+  "rarity": "LR",
+  "species": "Rồng lửa cổ đại",
+  "asset_filename": "mon_001.png",
+  "stats": {
+   "hp": 1850,
+   "atk": 222,
+   "def_": 111,
+   "spd": 100,
+   "luck": 5,
+   "crit_rate": 10,
+   "dodge": 3,
+   "cooldown_reduction": 5
+  },
+  "skills": {
+   "basic": [
+    "Trảm Kích",
+    "Gây sát thương vật lý lên một mục tiêu."
+   ],
+   "passive": [
+    "Bản Năng Săn Mồi",
+    "Khi tấn công, có cơ hội tăng ATK trong 1 lượt."
+   ],
+   "element": [
+    "Bộc Phát Nguyên Tố",
+    "Gây sát thương hệ lên mục tiêu và có cơ hội gây Thiêu Đốt."
+   ],
+   "ultimate": [
+    "Tuyệt Kỹ Diệt Địch",
+    "Tung đòn mạnh lên một mục tiêu; sát thương tăng theo ATK."
+   ]
+  },
+  "frame_hint": "Đỏ cam, lửa, dung nham"
+ },
+ {
+  "id": 2,
+  "code": "MON-002",
+  "name": "Phượng Hoàng Xích Nhật",
+  "element": "Hỏa",
+  "element_code": "FIRE",
+  "role": "Assassin",
+  "rarity": "SSR",
+  "species": "Phượng hoàng lửa",
+  "asset_filename": "mon_002.png",
+  "stats": {
+   "hp": 1550,
+   "atk": 186,
+   "def_": 93,
+   "spd": 115,
+   "luck": 7,
+   "crit_rate": 12,
+   "dodge": 9,
+   "cooldown_reduction": 7
+  },
+  "skills": {
+   "basic": [
+    "Ảnh Trảo",
+    "Lướt tới mục tiêu, sát thương tăng nếu hành động trước mục tiêu."
+   ],
+   "passive": [
+    "Ẩn Ảnh",
+    "Tăng Crit Rate cho đòn đầu tiên nếu không bị khống chế."
+   ],
+   "element": [
+    "Sát Ảnh Hỏa",
+    "Đánh nhanh bằng năng lượng hệ, có cơ hội gây Thiêu Đốt."
+   ],
+   "ultimate": [
+    "Tử Ảnh Liên Kích",
+    "Liên tục tấn công mục tiêu yếu nhất; sát thương hưởng lợi từ Crit Rate."
+   ]
+  },
+  "frame_hint": "Đỏ cam, lửa, dung nham"
+ },
+ {
+  "id": 3,
+  "code": "MON-003",
+  "name": "Hồ Ly Viêm Ảnh",
+  "element": "Hỏa",
+  "element_code": "FIRE",
+  "role": "Bruiser",
+  "rarity": "SR",
+  "species": "Cáo lửa chín đuôi",
+  "asset_filename": "mon_003.png",
+  "stats": {
+   "hp": 1320,
+   "atk": 158,
+   "def_": 79,
+   "spd": 100,
+   "luck": 9,
+   "crit_rate": 9,
+   "dodge": 5,
+   "cooldown_reduction": 9
+  },
+  "skills": {
+   "basic": [
+    "Trọng Kích",
+    "Gây sát thương vật lý mạnh lên một mục tiêu."
+   ],
+   "passive": [
+    "Càng Chiến Càng Mạnh",
+    "Nhận sát thương tích Nộ; đủ ngưỡng thì tăng ATK lượt kế tiếp."
+   ],
+   "element": [
+    "Cuồng Nộ Hỏa",
+    "Gây sát thương hệ và tăng DEF bản thân."
+   ],
+   "ultimate": [
+    "Bá Chủ Chiến Trường",
+    "Gây sát thương diện rộng; tăng theo HP đã mất trong giới hạn cân bằng."
+   ]
+  },
+  "frame_hint": "Đỏ cam, lửa, dung nham"
+ },
+ {
+  "id": 4,
+  "code": "MON-004",
+  "name": "Hổ Nham Đỏ",
+  "element": "Hỏa",
+  "element_code": "FIRE",
+  "role": "Mage",
+  "rarity": "R",
+  "species": "Hổ giáp dung nham",
+  "asset_filename": "mon_004.png",
+  "stats": {
+   "hp": 1150,
+   "atk": 138,
+   "def_": 69,
+   "spd": 100,
+   "luck": 11,
+   "crit_rate": 11,
+   "dodge": 6,
+   "cooldown_reduction": 14
+  },
+  "skills": {
+   "basic": [
+    "Đạn Ma Pháp",
+    "Bắn năng lượng gây sát thương phép lên một mục tiêu."
+   ],
+   "passive": [
+    "Dẫn Lưu Ma Lực",
+    "Dùng kỹ năng tích Ma Lực, tăng sát thương phép ở lượt kế tiếp."
+   ],
+   "element": [
+    "Ma Pháp Hỏa",
+    "Gây sát thương phép hệ lên nhiều mục tiêu."
+   ],
+   "ultimate": [
+    "Thiên Tai Nguyên Tố",
+    "Giải phóng đại thuật hệ, gây sát thương phép diện rộng."
+   ]
+  },
+  "frame_hint": "Đỏ cam, lửa, dung nham"
+ },
+ {
+  "id": 5,
+  "code": "MON-005",
+  "name": "Tiểu Điểu Tàn Hỏa",
+  "element": "Hỏa",
+  "element_code": "FIRE",
+  "role": "Tank",
+  "rarity": "N",
+  "species": "Chim lửa nhỏ",
+  "asset_filename": "mon_005.png",
+  "stats": {
+   "hp": 1250,
+   "atk": 95,
+   "def_": 81,
+   "spd": 90,
+   "luck": 13,
+   "crit_rate": 13,
+   "dodge": 7,
+   "cooldown_reduction": 13
+  },
+  "skills": {
+   "basic": [
+    "Khiên Kích",
+    "Gây sát thương nhẹ và tạo khiên nhỏ cho bản thân."
+   ],
+   "passive": [
+    "Thân Thể Bất Khuất",
+    "Khi HP dưới 50%, tăng DEF trong 2 lượt; tối đa một lần mỗi trận."
+   ],
+   "element": [
+    "Thành Lũy Nguyên Tố",
+    "Tạo lá chắn hệ cho bản thân và đồng minh thấp HP nhất."
+   ],
+   "ultimate": [
+    "Pháo Đài Bất Diệt",
+    "Bảo vệ toàn đội trong 2 lượt, giảm sát thương nhận vào."
+   ]
+  },
+  "frame_hint": "Đỏ cam, lửa, dung nham"
+ },
+ {
+  "id": 6,
+  "code": "MON-006",
+  "name": "Hải Long Thương Lam",
+  "element": "Thủy",
+  "element_code": "WATER",
+  "role": "Tank",
+  "rarity": "LR",
+  "species": "Rồng biển",
+  "asset_filename": "mon_006.png",
+  "stats": {
+   "hp": 2312,
+   "atk": 176,
+   "def_": 150,
+   "spd": 90,
+   "luck": 5,
+   "crit_rate": 5,
+   "dodge": 3,
+   "cooldown_reduction": 5
+  },
+  "skills": {
+   "basic": [
+    "Khiên Kích",
+    "Gây sát thương nhẹ và tạo khiên nhỏ cho bản thân."
+   ],
+   "passive": [
+    "Thân Thể Bất Khuất",
+    "Khi HP dưới 50%, tăng DEF trong 2 lượt; tối đa một lần mỗi trận."
+   ],
+   "element": [
+    "Thành Lũy Nguyên Tố",
+    "Tạo lá chắn hệ cho bản thân và đồng minh thấp HP nhất."
+   ],
+   "ultimate": [
+    "Pháo Đài Bất Diệt",
+    "Bảo vệ toàn đội trong 2 lượt, giảm sát thương nhận vào."
+   ]
+  },
+  "frame_hint": "Xanh biển, sóng nước, băng"
+ },
+ {
+  "id": 7,
+  "code": "MON-007",
+  "name": "Huyền Quy Băng Hải",
+  "element": "Thủy",
+  "element_code": "WATER",
+  "role": "Healer",
+  "rarity": "SSR",
+  "species": "Rùa thần băng",
+  "asset_filename": "mon_007.png",
+  "stats": {
+   "hp": 1550,
+   "atk": 132,
+   "def_": 93,
+   "spd": 100,
+   "luck": 7,
+   "crit_rate": 7,
+   "dodge": 4,
+   "cooldown_reduction": 10
+  },
+  "skills": {
+   "basic": [
+    "Tia Linh Quang",
+    "Gây sát thương nhẹ và hồi một ít HP cho đồng minh thấp HP nhất."
+   ],
+   "passive": [
+    "Tâm Hồn Từ Ái",
+    "Hồi máu cho đồng minh nguy cấp giúp tăng hiệu quả lần hồi kế tiếp."
+   ],
+   "element": [
+    "Mạch Sống Thủy",
+    "Hồi HP cho đồng minh và xóa một hiệu ứng bất lợi nhẹ."
+   ],
+   "ultimate": [
+    "Ân Điển Tái Sinh",
+    "Hồi máu toàn đội; đồng minh nguy cấp nhận thêm lá chắn."
+   ]
+  },
+  "frame_hint": "Xanh biển, sóng nước, băng"
+ },
+ {
+  "id": 8,
+  "code": "MON-008",
+  "name": "Lam Kình Ngân Triều",
+  "element": "Thủy",
+  "element_code": "WATER",
+  "role": "Control",
+  "rarity": "SR",
+  "species": "Cá voi ánh bạc",
+  "asset_filename": "mon_008.png",
+  "stats": {
+   "hp": 1320,
+   "atk": 125,
+   "def_": 79,
+   "spd": 100,
+   "luck": 9,
+   "crit_rate": 9,
+   "dodge": 5,
+   "cooldown_reduction": 9
+  },
+  "skills": {
+   "basic": [
+    "Xung Kích",
+    "Gây sát thương và giảm nhẹ SPD mục tiêu trong 1 lượt."
+   ],
+   "passive": [
+    "Áp Chế Chiến Trường",
+    "Khi gây khống chế, tăng DEF bản thân trong 1 lượt."
+   ],
+   "element": [
+    "Phong Tỏa Thủy",
+    "Gây sát thương hệ và có cơ hội làm chậm hoặc khóa kỹ năng."
+   ],
+   "ultimate": [
+    "Kết Giới Cấm Thuật",
+    "Giảm SPD và sức mạnh kỹ năng của đội địch trong 2 lượt."
+   ]
+  },
+  "frame_hint": "Xanh biển, sóng nước, băng"
+ },
+ {
+  "id": 9,
+  "code": "MON-009",
+  "name": "Thủy Hồ Nguyệt Ảnh",
+  "element": "Thủy",
+  "element_code": "WATER",
+  "role": "Support",
+  "rarity": "R",
+  "species": "Cáo nước",
+  "asset_filename": "mon_009.png",
+  "stats": {
+   "hp": 1150,
+   "atk": 98,
+   "def_": 69,
+   "spd": 100,
+   "luck": 13,
+   "crit_rate": 11,
+   "dodge": 6,
+   "cooldown_reduction": 14
+  },
+  "skills": {
+   "basic": [
+    "Đòn Đánh Yểm Trợ",
+    "Gây sát thương nhẹ và tăng SPD cho đồng minh nhanh nhất trong 1 lượt."
+   ],
+   "passive": [
+    "Nhịp Điệu Đồng Đội",
+    "Đầu trận, tăng nhẹ chỉ số chính cho toàn đội trong 1 lượt."
+   ],
+   "element": [
+    "Khúc Ca Thủy",
+    "Tăng một chỉ số phù hợp cho toàn đội trong 2 lượt."
+   ],
+   "ultimate": [
+    "Giao Ước Linh Thú",
+    "Tăng ATK và DEF toàn đội trong 2 lượt."
+   ]
+  },
+  "frame_hint": "Xanh biển, sóng nước, băng"
+ },
+ {
+  "id": 10,
+  "code": "MON-010",
+  "name": "Giọt Sương Linh",
+  "element": "Thủy",
+  "element_code": "WATER",
+  "role": "Mage",
+  "rarity": "N",
+  "species": "Tinh linh giọt nước",
+  "asset_filename": "mon_010.png",
+  "stats": {
+   "hp": 1000,
+   "atk": 120,
+   "def_": 60,
+   "spd": 100,
+   "luck": 13,
+   "crit_rate": 13,
+   "dodge": 7,
+   "cooldown_reduction": 16
+  },
+  "skills": {
+   "basic": [
+    "Đạn Ma Pháp",
+    "Bắn năng lượng gây sát thương phép lên một mục tiêu."
+   ],
+   "passive": [
+    "Dẫn Lưu Ma Lực",
+    "Dùng kỹ năng tích Ma Lực, tăng sát thương phép ở lượt kế tiếp."
+   ],
+   "element": [
+    "Ma Pháp Thủy",
+    "Gây sát thương phép hệ lên nhiều mục tiêu."
+   ],
+   "ultimate": [
+    "Thiên Tai Nguyên Tố",
+    "Giải phóng đại thuật hệ, gây sát thương phép diện rộng."
+   ]
+  },
+  "frame_hint": "Xanh biển, sóng nước, băng"
+ },
+ {
+  "id": 11,
+  "code": "MON-011",
+  "name": "Thần Lộc Cổ Mộc",
+  "element": "Mộc",
+  "element_code": "WOOD",
+  "role": "Healer",
+  "rarity": "LR",
+  "species": "Hươu thần phủ rêu",
+  "asset_filename": "mon_011.png",
+  "stats": {
+   "hp": 1850,
+   "atk": 157,
+   "def_": 111,
+   "spd": 100,
+   "luck": 5,
+   "crit_rate": 5,
+   "dodge": 3,
+   "cooldown_reduction": 8
+  },
+  "skills": {
+   "basic": [
+    "Tia Linh Quang",
+    "Gây sát thương nhẹ và hồi một ít HP cho đồng minh thấp HP nhất."
+   ],
+   "passive": [
+    "Tâm Hồn Từ Ái",
+    "Hồi máu cho đồng minh nguy cấp giúp tăng hiệu quả lần hồi kế tiếp."
+   ],
+   "element": [
+    "Mạch Sống Mộc",
+    "Hồi HP cho đồng minh và xóa một hiệu ứng bất lợi nhẹ."
+   ],
+   "ultimate": [
+    "Ân Điển Tái Sinh",
+    "Hồi máu toàn đội; đồng minh nguy cấp nhận thêm lá chắn."
+   ]
+  },
+  "frame_hint": "Xanh lá, dây leo, hoa lá"
+ },
+ {
+  "id": 12,
+  "code": "MON-012",
+  "name": "Thanh Mộc Tiên Linh",
+  "element": "Mộc",
+  "element_code": "WOOD",
+  "role": "Support",
+  "rarity": "SSR",
+  "species": "Tinh linh cây",
+  "asset_filename": "mon_012.png",
+  "stats": {
+   "hp": 1550,
+   "atk": 132,
+   "def_": 93,
+   "spd": 100,
+   "luck": 9,
+   "crit_rate": 7,
+   "dodge": 4,
+   "cooldown_reduction": 10
+  },
+  "skills": {
+   "basic": [
+    "Đòn Đánh Yểm Trợ",
+    "Gây sát thương nhẹ và tăng SPD cho đồng minh nhanh nhất trong 1 lượt."
+   ],
+   "passive": [
+    "Nhịp Điệu Đồng Đội",
+    "Đầu trận, tăng nhẹ chỉ số chính cho toàn đội trong 1 lượt."
+   ],
+   "element": [
+    "Khúc Ca Mộc",
+    "Tăng một chỉ số phù hợp cho toàn đội trong 2 lượt."
+   ],
+   "ultimate": [
+    "Giao Ước Linh Thú",
+    "Tăng ATK và DEF toàn đội trong 2 lượt."
+   ]
+  },
+  "frame_hint": "Xanh lá, dây leo, hoa lá"
+ },
+ {
+  "id": 13,
+  "code": "MON-013",
+  "name": "Hoa Hồ Bách Diệp",
+  "element": "Mộc",
+  "element_code": "WOOD",
+  "role": "Tank",
+  "rarity": "SR",
+  "species": "Cáo hoa",
+  "asset_filename": "mon_013.png",
+  "stats": {
+   "hp": 1650,
+   "atk": 125,
+   "def_": 107,
+   "spd": 90,
+   "luck": 9,
+   "crit_rate": 9,
+   "dodge": 5,
+   "cooldown_reduction": 9
+  },
+  "skills": {
+   "basic": [
+    "Khiên Kích",
+    "Gây sát thương nhẹ và tạo khiên nhỏ cho bản thân."
+   ],
+   "passive": [
+    "Thân Thể Bất Khuất",
+    "Khi HP dưới 50%, tăng DEF trong 2 lượt; tối đa một lần mỗi trận."
+   ],
+   "element": [
+    "Thành Lũy Nguyên Tố",
+    "Tạo lá chắn hệ cho bản thân và đồng minh thấp HP nhất."
+   ],
+   "ultimate": [
+    "Pháo Đài Bất Diệt",
+    "Bảo vệ toàn đội trong 2 lượt, giảm sát thương nhận vào."
+   ]
+  },
+  "frame_hint": "Xanh lá, dây leo, hoa lá"
+ },
+ {
+  "id": 14,
+  "code": "MON-014",
+  "name": "Đằng Xà Lục Ảnh",
+  "element": "Mộc",
+  "element_code": "WOOD",
+  "role": "Control",
+  "rarity": "R",
+  "species": "Rắn dây leo",
+  "asset_filename": "mon_014.png",
+  "stats": {
+   "hp": 1150,
+   "atk": 109,
+   "def_": 69,
+   "spd": 100,
+   "luck": 11,
+   "crit_rate": 11,
+   "dodge": 6,
+   "cooldown_reduction": 11
+  },
+  "skills": {
+   "basic": [
+    "Xung Kích",
+    "Gây sát thương và giảm nhẹ SPD mục tiêu trong 1 lượt."
+   ],
+   "passive": [
+    "Áp Chế Chiến Trường",
+    "Khi gây khống chế, tăng DEF bản thân trong 1 lượt."
+   ],
+   "element": [
+    "Phong Tỏa Mộc",
+    "Gây sát thương hệ và có cơ hội làm chậm hoặc khóa kỹ năng."
+   ],
+   "ultimate": [
+    "Kết Giới Cấm Thuật",
+    "Giảm SPD và sức mạnh kỹ năng của đội địch trong 2 lượt."
+   ]
+  },
+  "frame_hint": "Xanh lá, dây leo, hoa lá"
+ },
+ {
+  "id": 15,
+  "code": "MON-015",
+  "name": "Nấm Con Mầm Xanh",
+  "element": "Mộc",
+  "element_code": "WOOD",
+  "role": "DPS",
+  "rarity": "N",
+  "species": "Linh vật nấm nhỏ",
+  "asset_filename": "mon_015.png",
+  "stats": {
+   "hp": 1000,
+   "atk": 120,
+   "def_": 60,
+   "spd": 100,
+   "luck": 13,
+   "crit_rate": 18,
+   "dodge": 7,
+   "cooldown_reduction": 13
+  },
+  "skills": {
+   "basic": [
+    "Trảm Kích",
+    "Gây sát thương vật lý lên một mục tiêu."
+   ],
+   "passive": [
+    "Bản Năng Săn Mồi",
+    "Khi tấn công, có cơ hội tăng ATK trong 1 lượt."
+   ],
+   "element": [
+    "Bộc Phát Nguyên Tố",
+    "Gây sát thương hệ lên mục tiêu và có cơ hội gây Trói Buộc."
+   ],
+   "ultimate": [
+    "Tuyệt Kỹ Diệt Địch",
+    "Tung đòn mạnh lên một mục tiêu; sát thương tăng theo ATK."
+   ]
+  },
+  "frame_hint": "Xanh lá, dây leo, hoa lá"
+ },
+ {
+  "id": 16,
+  "code": "MON-016",
+  "name": "Lôi Long Cửu Thiên",
+  "element": "Lôi",
+  "element_code": "LIGHTNING",
+  "role": "Assassin",
+  "rarity": "LR",
+  "species": "Rồng sấm",
+  "asset_filename": "mon_016.png",
+  "stats": {
+   "hp": 1850,
+   "atk": 222,
+   "def_": 111,
+   "spd": 115,
+   "luck": 5,
+   "crit_rate": 10,
+   "dodge": 8,
+   "cooldown_reduction": 5
+  },
+  "skills": {
+   "basic": [
+    "Ảnh Trảo",
+    "Lướt tới mục tiêu, sát thương tăng nếu hành động trước mục tiêu."
+   ],
+   "passive": [
+    "Ẩn Ảnh",
+    "Tăng Crit Rate cho đòn đầu tiên nếu không bị khống chế."
+   ],
+   "element": [
+    "Sát Ảnh Lôi",
+    "Đánh nhanh bằng năng lượng hệ, có cơ hội gây Tê Liệt."
+   ],
+   "ultimate": [
+    "Tử Ảnh Liên Kích",
+    "Liên tục tấn công mục tiêu yếu nhất; sát thương hưởng lợi từ Crit Rate."
+   ]
+  },
+  "frame_hint": "Vàng điện, tia sét"
+ },
+ {
+  "id": 17,
+  "code": "MON-017",
+  "name": "Thiên Ưng Lôi Vũ",
+  "element": "Lôi",
+  "element_code": "LIGHTNING",
+  "role": "DPS",
+  "rarity": "SSR",
+  "species": "Đại bàng sét",
+  "asset_filename": "mon_017.png",
+  "stats": {
+   "hp": 1550,
+   "atk": 186,
+   "def_": 93,
+   "spd": 100,
+   "luck": 7,
+   "crit_rate": 12,
+   "dodge": 4,
+   "cooldown_reduction": 7
+  },
+  "skills": {
+   "basic": [
+    "Trảm Kích",
+    "Gây sát thương vật lý lên một mục tiêu."
+   ],
+   "passive": [
+    "Bản Năng Săn Mồi",
+    "Khi tấn công, có cơ hội tăng ATK trong 1 lượt."
+   ],
+   "element": [
+    "Bộc Phát Nguyên Tố",
+    "Gây sát thương hệ lên mục tiêu và có cơ hội gây Tê Liệt."
+   ],
+   "ultimate": [
+    "Tuyệt Kỹ Diệt Địch",
+    "Tung đòn mạnh lên một mục tiêu; sát thương tăng theo ATK."
+   ]
+  },
+  "frame_hint": "Vàng điện, tia sét"
+ },
+ {
+  "id": 18,
+  "code": "MON-018",
+  "name": "Lôi Lang Tốc Ảnh",
+  "element": "Lôi",
+  "element_code": "LIGHTNING",
+  "role": "Mage",
+  "rarity": "SR",
+  "species": "Sói điện",
+  "asset_filename": "mon_018.png",
+  "stats": {
+   "hp": 1320,
+   "atk": 158,
+   "def_": 79,
+   "spd": 100,
+   "luck": 9,
+   "crit_rate": 9,
+   "dodge": 5,
+   "cooldown_reduction": 12
+  },
+  "skills": {
+   "basic": [
+    "Đạn Ma Pháp",
+    "Bắn năng lượng gây sát thương phép lên một mục tiêu."
+   ],
+   "passive": [
+    "Dẫn Lưu Ma Lực",
+    "Dùng kỹ năng tích Ma Lực, tăng sát thương phép ở lượt kế tiếp."
+   ],
+   "element": [
+    "Ma Pháp Lôi",
+    "Gây sát thương phép hệ lên nhiều mục tiêu."
+   ],
+   "ultimate": [
+    "Thiên Tai Nguyên Tố",
+    "Giải phóng đại thuật hệ, gây sát thương phép diện rộng."
+   ]
+  },
+  "frame_hint": "Vàng điện, tia sét"
+ },
+ {
+  "id": 19,
+  "code": "MON-019",
+  "name": "Điện Hồ Kim Quang",
+  "element": "Lôi",
+  "element_code": "LIGHTNING",
+  "role": "Control",
+  "rarity": "R",
+  "species": "Cáo điện",
+  "asset_filename": "mon_019.png",
+  "stats": {
+   "hp": 1150,
+   "atk": 109,
+   "def_": 69,
+   "spd": 100,
+   "luck": 11,
+   "crit_rate": 11,
+   "dodge": 6,
+   "cooldown_reduction": 11
+  },
+  "skills": {
+   "basic": [
+    "Xung Kích",
+    "Gây sát thương và giảm nhẹ SPD mục tiêu trong 1 lượt."
+   ],
+   "passive": [
+    "Áp Chế Chiến Trường",
+    "Khi gây khống chế, tăng DEF bản thân trong 1 lượt."
+   ],
+   "element": [
+    "Phong Tỏa Lôi",
+    "Gây sát thương hệ và có cơ hội làm chậm hoặc khóa kỹ năng."
+   ],
+   "ultimate": [
+    "Kết Giới Cấm Thuật",
+    "Giảm SPD và sức mạnh kỹ năng của đội địch trong 2 lượt."
+   ]
+  },
+  "frame_hint": "Vàng điện, tia sét"
+ },
+ {
+  "id": 20,
+  "code": "MON-020",
+  "name": "Tí Tách Lôi Linh",
+  "element": "Lôi",
+  "element_code": "LIGHTNING",
+  "role": "Bruiser",
+  "rarity": "N",
+  "species": "Tinh linh tia sét",
+  "asset_filename": "mon_020.png",
+  "stats": {
+   "hp": 1000,
+   "atk": 120,
+   "def_": 60,
+   "spd": 100,
+   "luck": 13,
+   "crit_rate": 13,
+   "dodge": 7,
+   "cooldown_reduction": 13
+  },
+  "skills": {
+   "basic": [
+    "Trọng Kích",
+    "Gây sát thương vật lý mạnh lên một mục tiêu."
+   ],
+   "passive": [
+    "Càng Chiến Càng Mạnh",
+    "Nhận sát thương tích Nộ; đủ ngưỡng thì tăng ATK lượt kế tiếp."
+   ],
+   "element": [
+    "Cuồng Nộ Lôi",
+    "Gây sát thương hệ và tăng DEF bản thân."
+   ],
+   "ultimate": [
+    "Bá Chủ Chiến Trường",
+    "Gây sát thương diện rộng; tăng theo HP đã mất trong giới hạn cân bằng."
+   ]
+  },
+  "frame_hint": "Vàng điện, tia sét"
+ },
+ {
+  "id": 21,
+  "code": "MON-021",
+  "name": "Thiên Bằng Vạn Phong",
+  "element": "Phong",
+  "element_code": "WIND",
+  "role": "Assassin",
+  "rarity": "LR",
+  "species": "Chim thần khổng lồ",
+  "asset_filename": "mon_021.png",
+  "stats": {
+   "hp": 1850,
+   "atk": 222,
+   "def_": 111,
+   "spd": 115,
+   "luck": 5,
+   "crit_rate": 10,
+   "dodge": 8,
+   "cooldown_reduction": 5
+  },
+  "skills": {
+   "basic": [
+    "Ảnh Trảo",
+    "Lướt tới mục tiêu, sát thương tăng nếu hành động trước mục tiêu."
+   ],
+   "passive": [
+    "Ẩn Ảnh",
+    "Tăng Crit Rate cho đòn đầu tiên nếu không bị khống chế."
+   ],
+   "element": [
+    "Sát Ảnh Phong",
+    "Đánh nhanh bằng năng lượng hệ, có cơ hội gây Hất Lùi."
+   ],
+   "ultimate": [
+    "Tử Ảnh Liên Kích",
+    "Liên tục tấn công mục tiêu yếu nhất; sát thương hưởng lợi từ Crit Rate."
+   ]
+  },
+  "frame_hint": "Xanh ngọc, luồng gió, lông vũ"
+ },
+ {
+  "id": 22,
+  "code": "MON-022",
+  "name": "Phong Long Bạch Vũ",
+  "element": "Phong",
+  "element_code": "WIND",
+  "role": "Support",
+  "rarity": "SSR",
+  "species": "Rồng gió",
+  "asset_filename": "mon_022.png",
+  "stats": {
+   "hp": 1550,
+   "atk": 132,
+   "def_": 93,
+   "spd": 100,
+   "luck": 9,
+   "crit_rate": 7,
+   "dodge": 4,
+   "cooldown_reduction": 10
+  },
+  "skills": {
+   "basic": [
+    "Đòn Đánh Yểm Trợ",
+    "Gây sát thương nhẹ và tăng SPD cho đồng minh nhanh nhất trong 1 lượt."
+   ],
+   "passive": [
+    "Nhịp Điệu Đồng Đội",
+    "Đầu trận, tăng nhẹ chỉ số chính cho toàn đội trong 1 lượt."
+   ],
+   "element": [
+    "Khúc Ca Phong",
+    "Tăng một chỉ số phù hợp cho toàn đội trong 2 lượt."
+   ],
+   "ultimate": [
+    "Giao Ước Linh Thú",
+    "Tăng ATK và DEF toàn đội trong 2 lượt."
+   ]
+  },
+  "frame_hint": "Xanh ngọc, luồng gió, lông vũ"
+ },
+ {
+  "id": 23,
+  "code": "MON-023",
+  "name": "Bão Lang Thiên Hành",
+  "element": "Phong",
+  "element_code": "WIND",
+  "role": "DPS",
+  "rarity": "SR",
+  "species": "Sói bão",
+  "asset_filename": "mon_023.png",
+  "stats": {
+   "hp": 1320,
+   "atk": 158,
+   "def_": 79,
+   "spd": 100,
+   "luck": 9,
+   "crit_rate": 14,
+   "dodge": 5,
+   "cooldown_reduction": 9
+  },
+  "skills": {
+   "basic": [
+    "Trảm Kích",
+    "Gây sát thương vật lý lên một mục tiêu."
+   ],
+   "passive": [
+    "Bản Năng Săn Mồi",
+    "Khi tấn công, có cơ hội tăng ATK trong 1 lượt."
+   ],
+   "element": [
+    "Bộc Phát Nguyên Tố",
+    "Gây sát thương hệ lên mục tiêu và có cơ hội gây Hất Lùi."
+   ],
+   "ultimate": [
+    "Tuyệt Kỹ Diệt Địch",
+    "Tung đòn mạnh lên một mục tiêu; sát thương tăng theo ATK."
+   ]
+  },
+  "frame_hint": "Xanh ngọc, luồng gió, lông vũ"
+ },
+ {
+  "id": 24,
+  "code": "MON-024",
+  "name": "Vân Hạc Ngân Dực",
+  "element": "Phong",
+  "element_code": "WIND",
+  "role": "Control",
+  "rarity": "R",
+  "species": "Hạc mây",
+  "asset_filename": "mon_024.png",
+  "stats": {
+   "hp": 1150,
+   "atk": 109,
+   "def_": 69,
+   "spd": 100,
+   "luck": 11,
+   "crit_rate": 11,
+   "dodge": 6,
+   "cooldown_reduction": 11
+  },
+  "skills": {
+   "basic": [
+    "Xung Kích",
+    "Gây sát thương và giảm nhẹ SPD mục tiêu trong 1 lượt."
+   ],
+   "passive": [
+    "Áp Chế Chiến Trường",
+    "Khi gây khống chế, tăng DEF bản thân trong 1 lượt."
+   ],
+   "element": [
+    "Phong Tỏa Phong",
+    "Gây sát thương hệ và có cơ hội làm chậm hoặc khóa kỹ năng."
+   ],
+   "ultimate": [
+    "Kết Giới Cấm Thuật",
+    "Giảm SPD và sức mạnh kỹ năng của đội địch trong 2 lượt."
+   ]
+  },
+  "frame_hint": "Xanh ngọc, luồng gió, lông vũ"
+ },
+ {
+  "id": 25,
+  "code": "MON-025",
+  "name": "Yến Linh Phiêu Phong",
+  "element": "Phong",
+  "element_code": "WIND",
+  "role": "Mage",
+  "rarity": "N",
+  "species": "Chim én gió",
+  "asset_filename": "mon_025.png",
+  "stats": {
+   "hp": 1000,
+   "atk": 120,
+   "def_": 60,
+   "spd": 100,
+   "luck": 13,
+   "crit_rate": 13,
+   "dodge": 7,
+   "cooldown_reduction": 16
+  },
+  "skills": {
+   "basic": [
+    "Đạn Ma Pháp",
+    "Bắn năng lượng gây sát thương phép lên một mục tiêu."
+   ],
+   "passive": [
+    "Dẫn Lưu Ma Lực",
+    "Dùng kỹ năng tích Ma Lực, tăng sát thương phép ở lượt kế tiếp."
+   ],
+   "element": [
+    "Ma Pháp Phong",
+    "Gây sát thương phép hệ lên nhiều mục tiêu."
+   ],
+   "ultimate": [
+    "Thiên Tai Nguyên Tố",
+    "Giải phóng đại thuật hệ, gây sát thương phép diện rộng."
+   ]
+  },
+  "frame_hint": "Xanh ngọc, luồng gió, lông vũ"
+ },
+ {
+  "id": 26,
+  "code": "MON-026",
+  "name": "Địa Long Sơn Mạch",
+  "element": "Thổ",
+  "element_code": "EARTH",
+  "role": "Tank",
+  "rarity": "LR",
+  "species": "Rồng đất",
+  "asset_filename": "mon_026.png",
+  "stats": {
+   "hp": 2312,
+   "atk": 176,
+   "def_": 150,
+   "spd": 90,
+   "luck": 5,
+   "crit_rate": 5,
+   "dodge": 3,
+   "cooldown_reduction": 5
+  },
+  "skills": {
+   "basic": [
+    "Khiên Kích",
+    "Gây sát thương nhẹ và tạo khiên nhỏ cho bản thân."
+   ],
+   "passive": [
+    "Thân Thể Bất Khuất",
+    "Khi HP dưới 50%, tăng DEF trong 2 lượt; tối đa một lần mỗi trận."
+   ],
+   "element": [
+    "Thành Lũy Nguyên Tố",
+    "Tạo lá chắn hệ cho bản thân và đồng minh thấp HP nhất."
+   ],
+   "ultimate": [
+    "Pháo Đài Bất Diệt",
+    "Bảo vệ toàn đội trong 2 lượt, giảm sát thương nhận vào."
+   ]
+  },
+  "frame_hint": "Nâu vàng, đá, tinh thể khoáng"
+ },
+ {
+  "id": 27,
+  "code": "MON-027",
+  "name": "Kim Cương Hùng Vương",
+  "element": "Thổ",
+  "element_code": "EARTH",
+  "role": "Bruiser",
+  "rarity": "SSR",
+  "species": "Gấu đá quý",
+  "asset_filename": "mon_027.png",
+  "stats": {
+   "hp": 1550,
+   "atk": 186,
+   "def_": 93,
+   "spd": 100,
+   "luck": 7,
+   "crit_rate": 7,
+   "dodge": 4,
+   "cooldown_reduction": 7
+  },
+  "skills": {
+   "basic": [
+    "Trọng Kích",
+    "Gây sát thương vật lý mạnh lên một mục tiêu."
+   ],
+   "passive": [
+    "Càng Chiến Càng Mạnh",
+    "Nhận sát thương tích Nộ; đủ ngưỡng thì tăng ATK lượt kế tiếp."
+   ],
+   "element": [
+    "Cuồng Nộ Thổ",
+    "Gây sát thương hệ và tăng DEF bản thân."
+   ],
+   "ultimate": [
+    "Bá Chủ Chiến Trường",
+    "Gây sát thương diện rộng; tăng theo HP đã mất trong giới hạn cân bằng."
+   ]
+  },
+  "frame_hint": "Nâu vàng, đá, tinh thể khoáng"
+ },
+ {
+  "id": 28,
+  "code": "MON-028",
+  "name": "Thạch Quy Trấn Nhạc",
+  "element": "Thổ",
+  "element_code": "EARTH",
+  "role": "Control",
+  "rarity": "SR",
+  "species": "Rùa đá khổng lồ",
+  "asset_filename": "mon_028.png",
+  "stats": {
+   "hp": 1320,
+   "atk": 125,
+   "def_": 79,
+   "spd": 100,
+   "luck": 9,
+   "crit_rate": 9,
+   "dodge": 5,
+   "cooldown_reduction": 9
+  },
+  "skills": {
+   "basic": [
+    "Xung Kích",
+    "Gây sát thương và giảm nhẹ SPD mục tiêu trong 1 lượt."
+   ],
+   "passive": [
+    "Áp Chế Chiến Trường",
+    "Khi gây khống chế, tăng DEF bản thân trong 1 lượt."
+   ],
+   "element": [
+    "Phong Tỏa Thổ",
+    "Gây sát thương hệ và có cơ hội làm chậm hoặc khóa kỹ năng."
+   ],
+   "ultimate": [
+    "Kết Giới Cấm Thuật",
+    "Giảm SPD và sức mạnh kỹ năng của đội địch trong 2 lượt."
+   ]
+  },
+  "frame_hint": "Nâu vàng, đá, tinh thể khoáng"
+ },
+ {
+  "id": 29,
+  "code": "MON-029",
+  "name": "Sa Hồ Hoàng Kim",
+  "element": "Thổ",
+  "element_code": "EARTH",
+  "role": "Support",
+  "rarity": "R",
+  "species": "Cáo sa mạc",
+  "asset_filename": "mon_029.png",
+  "stats": {
+   "hp": 1150,
+   "atk": 98,
+   "def_": 69,
+   "spd": 100,
+   "luck": 13,
+   "crit_rate": 11,
+   "dodge": 6,
+   "cooldown_reduction": 14
+  },
+  "skills": {
+   "basic": [
+    "Đòn Đánh Yểm Trợ",
+    "Gây sát thương nhẹ và tăng SPD cho đồng minh nhanh nhất trong 1 lượt."
+   ],
+   "passive": [
+    "Nhịp Điệu Đồng Đội",
+    "Đầu trận, tăng nhẹ chỉ số chính cho toàn đội trong 1 lượt."
+   ],
+   "element": [
+    "Khúc Ca Thổ",
+    "Tăng một chỉ số phù hợp cho toàn đội trong 2 lượt."
+   ],
+   "ultimate": [
+    "Giao Ước Linh Thú",
+    "Tăng ATK và DEF toàn đội trong 2 lượt."
+   ]
+  },
+  "frame_hint": "Nâu vàng, đá, tinh thể khoáng"
+ },
+ {
+  "id": 30,
+  "code": "MON-030",
+  "name": "Cuội Đá Tinh Nghịch",
+  "element": "Thổ",
+  "element_code": "EARTH",
+  "role": "DPS",
+  "rarity": "N",
+  "species": "Linh thú đá nhỏ",
+  "asset_filename": "mon_030.png",
+  "stats": {
+   "hp": 1000,
+   "atk": 120,
+   "def_": 60,
+   "spd": 100,
+   "luck": 13,
+   "crit_rate": 18,
+   "dodge": 7,
+   "cooldown_reduction": 13
+  },
+  "skills": {
+   "basic": [
+    "Trảm Kích",
+    "Gây sát thương vật lý lên một mục tiêu."
+   ],
+   "passive": [
+    "Bản Năng Săn Mồi",
+    "Khi tấn công, có cơ hội tăng ATK trong 1 lượt."
+   ],
+   "element": [
+    "Bộc Phát Nguyên Tố",
+    "Gây sát thương hệ lên mục tiêu và có cơ hội gây Choáng."
+   ],
+   "ultimate": [
+    "Tuyệt Kỹ Diệt Địch",
+    "Tung đòn mạnh lên một mục tiêu; sát thương tăng theo ATK."
+   ]
+  },
+  "frame_hint": "Nâu vàng, đá, tinh thể khoáng"
+ },
+ {
+  "id": 31,
+  "code": "MON-031",
+  "name": "Thái Dương Thánh Long",
+  "element": "Ánh Sáng",
+  "element_code": "LIGHT",
+  "role": "Healer",
+  "rarity": "LR",
+  "species": "Rồng mặt trời",
+  "asset_filename": "mon_031.png",
+  "stats": {
+   "hp": 1850,
+   "atk": 157,
+   "def_": 111,
+   "spd": 100,
+   "luck": 5,
+   "crit_rate": 5,
+   "dodge": 3,
+   "cooldown_reduction": 8
+  },
+  "skills": {
+   "basic": [
+    "Tia Linh Quang",
+    "Gây sát thương nhẹ và hồi một ít HP cho đồng minh thấp HP nhất."
+   ],
+   "passive": [
+    "Tâm Hồn Từ Ái",
+    "Hồi máu cho đồng minh nguy cấp giúp tăng hiệu quả lần hồi kế tiếp."
+   ],
+   "element": [
+    "Mạch Sống Ánh Sáng",
+    "Hồi HP cho đồng minh và xóa một hiệu ứng bất lợi nhẹ."
+   ],
+   "ultimate": [
+    "Ân Điển Tái Sinh",
+    "Hồi máu toàn đội; đồng minh nguy cấp nhận thêm lá chắn."
+   ]
+  },
+  "frame_hint": "Trắng vàng, quầng sáng thiên giới"
+ },
+ {
+  "id": 32,
+  "code": "MON-032",
+  "name": "Quang Minh Kỳ Lân",
+  "element": "Ánh Sáng",
+  "element_code": "LIGHT",
+  "role": "Support",
+  "rarity": "SSR",
+  "species": "Kỳ lân ánh sáng",
+  "asset_filename": "mon_032.png",
+  "stats": {
+   "hp": 1550,
+   "atk": 132,
+   "def_": 93,
+   "spd": 100,
+   "luck": 9,
+   "crit_rate": 7,
+   "dodge": 4,
+   "cooldown_reduction": 10
+  },
+  "skills": {
+   "basic": [
+    "Đòn Đánh Yểm Trợ",
+    "Gây sát thương nhẹ và tăng SPD cho đồng minh nhanh nhất trong 1 lượt."
+   ],
+   "passive": [
+    "Nhịp Điệu Đồng Đội",
+    "Đầu trận, tăng nhẹ chỉ số chính cho toàn đội trong 1 lượt."
+   ],
+   "element": [
+    "Khúc Ca Ánh Sáng",
+    "Tăng một chỉ số phù hợp cho toàn đội trong 2 lượt."
+   ],
+   "ultimate": [
+    "Giao Ước Linh Thú",
+    "Tăng ATK và DEF toàn đội trong 2 lượt."
+   ]
+  },
+  "frame_hint": "Trắng vàng, quầng sáng thiên giới"
+ },
+ {
+  "id": 33,
+  "code": "MON-033",
+  "name": "Ngân Dực Thánh Sư",
+  "element": "Ánh Sáng",
+  "element_code": "LIGHT",
+  "role": "Mage",
+  "rarity": "SR",
+  "species": "Sư tử cánh bạc",
+  "asset_filename": "mon_033.png",
+  "stats": {
+   "hp": 1320,
+   "atk": 158,
+   "def_": 79,
+   "spd": 100,
+   "luck": 9,
+   "crit_rate": 9,
+   "dodge": 5,
+   "cooldown_reduction": 12
+  },
+  "skills": {
+   "basic": [
+    "Đạn Ma Pháp",
+    "Bắn năng lượng gây sát thương phép lên một mục tiêu."
+   ],
+   "passive": [
+    "Dẫn Lưu Ma Lực",
+    "Dùng kỹ năng tích Ma Lực, tăng sát thương phép ở lượt kế tiếp."
+   ],
+   "element": [
+    "Ma Pháp Ánh Sáng",
+    "Gây sát thương phép hệ lên nhiều mục tiêu."
+   ],
+   "ultimate": [
+    "Thiên Tai Nguyên Tố",
+    "Giải phóng đại thuật hệ, gây sát thương phép diện rộng."
+   ]
+  },
+  "frame_hint": "Trắng vàng, quầng sáng thiên giới"
+ },
+ {
+  "id": 34,
+  "code": "MON-034",
+  "name": "Tinh Nguyệt Linh Thố",
+  "element": "Ánh Sáng",
+  "element_code": "LIGHT",
+  "role": "Tank",
+  "rarity": "R",
+  "species": "Thỏ ánh trăng",
+  "asset_filename": "mon_034.png",
+  "stats": {
+   "hp": 1438,
+   "atk": 109,
+   "def_": 93,
+   "spd": 90,
+   "luck": 11,
+   "crit_rate": 11,
+   "dodge": 6,
+   "cooldown_reduction": 11
+  },
+  "skills": {
+   "basic": [
+    "Khiên Kích",
+    "Gây sát thương nhẹ và tạo khiên nhỏ cho bản thân."
+   ],
+   "passive": [
+    "Thân Thể Bất Khuất",
+    "Khi HP dưới 50%, tăng DEF trong 2 lượt; tối đa một lần mỗi trận."
+   ],
+   "element": [
+    "Thành Lũy Nguyên Tố",
+    "Tạo lá chắn hệ cho bản thân và đồng minh thấp HP nhất."
+   ],
+   "ultimate": [
+    "Pháo Đài Bất Diệt",
+    "Bảo vệ toàn đội trong 2 lượt, giảm sát thương nhận vào."
+   ]
+  },
+  "frame_hint": "Trắng vàng, quầng sáng thiên giới"
+ },
+ {
+  "id": 35,
+  "code": "MON-035",
+  "name": "Đom Đóm Quang Linh",
+  "element": "Ánh Sáng",
+  "element_code": "LIGHT",
+  "role": "DPS",
+  "rarity": "N",
+  "species": "Tinh linh đom đóm",
+  "asset_filename": "mon_035.png",
+  "stats": {
+   "hp": 1000,
+   "atk": 120,
+   "def_": 60,
+   "spd": 100,
+   "luck": 13,
+   "crit_rate": 18,
+   "dodge": 7,
+   "cooldown_reduction": 13
+  },
+  "skills": {
+   "basic": [
+    "Trảm Kích",
+    "Gây sát thương vật lý lên một mục tiêu."
+   ],
+   "passive": [
+    "Bản Năng Săn Mồi",
+    "Khi tấn công, có cơ hội tăng ATK trong 1 lượt."
+   ],
+   "element": [
+    "Bộc Phát Nguyên Tố",
+    "Gây sát thương hệ lên mục tiêu và có cơ hội gây Thanh Tẩy."
+   ],
+   "ultimate": [
+    "Tuyệt Kỹ Diệt Địch",
+    "Tung đòn mạnh lên một mục tiêu; sát thương tăng theo ATK."
+   ]
+  },
+  "frame_hint": "Trắng vàng, quầng sáng thiên giới"
+ },
+ {
+  "id": 36,
+  "code": "MON-036",
+  "name": "Hắc Long Vực Chủ",
+  "element": "Bóng Tối",
+  "element_code": "DARK",
+  "role": "Assassin",
+  "rarity": "LR",
+  "species": "Rồng bóng tối",
+  "asset_filename": "mon_036.png",
+  "stats": {
+   "hp": 1850,
+   "atk": 222,
+   "def_": 111,
+   "spd": 115,
+   "luck": 5,
+   "crit_rate": 10,
+   "dodge": 8,
+   "cooldown_reduction": 5
+  },
+  "skills": {
+   "basic": [
+    "Ảnh Trảo",
+    "Lướt tới mục tiêu, sát thương tăng nếu hành động trước mục tiêu."
+   ],
+   "passive": [
+    "Ẩn Ảnh",
+    "Tăng Crit Rate cho đòn đầu tiên nếu không bị khống chế."
+   ],
+   "element": [
+    "Sát Ảnh Bóng Tối",
+    "Đánh nhanh bằng năng lượng hệ, có cơ hội gây Suy Yếu."
+   ],
+   "ultimate": [
+    "Tử Ảnh Liên Kích",
+    "Liên tục tấn công mục tiêu yếu nhất; sát thương hưởng lợi từ Crit Rate."
+   ]
+  },
+  "frame_hint": "Tím đen, khói và phù văn"
+ },
+ {
+  "id": 37,
+  "code": "MON-037",
+  "name": "U Minh Lang Hoàng",
+  "element": "Bóng Tối",
+  "element_code": "DARK",
+  "role": "Control",
+  "rarity": "SSR",
+  "species": "Sói u minh",
+  "asset_filename": "mon_037.png",
+  "stats": {
+   "hp": 1550,
+   "atk": 147,
+   "def_": 93,
+   "spd": 100,
+   "luck": 7,
+   "crit_rate": 7,
+   "dodge": 4,
+   "cooldown_reduction": 7
+  },
+  "skills": {
+   "basic": [
+    "Xung Kích",
+    "Gây sát thương và giảm nhẹ SPD mục tiêu trong 1 lượt."
+   ],
+   "passive": [
+    "Áp Chế Chiến Trường",
+    "Khi gây khống chế, tăng DEF bản thân trong 1 lượt."
+   ],
+   "element": [
+    "Phong Tỏa Bóng Tối",
+    "Gây sát thương hệ và có cơ hội làm chậm hoặc khóa kỹ năng."
+   ],
+   "ultimate": [
+    "Kết Giới Cấm Thuật",
+    "Giảm SPD và sức mạnh kỹ năng của đội địch trong 2 lượt."
+   ]
+  },
+  "frame_hint": "Tím đen, khói và phù văn"
+ },
+ {
+  "id": 38,
+  "code": "MON-038",
+  "name": "Ám Ảnh Miêu Vương",
+  "element": "Bóng Tối",
+  "element_code": "DARK",
+  "role": "Mage",
+  "rarity": "SR",
+  "species": "Mèo bóng tối",
+  "asset_filename": "mon_038.png",
+  "stats": {
+   "hp": 1320,
+   "atk": 158,
+   "def_": 79,
+   "spd": 100,
+   "luck": 9,
+   "crit_rate": 9,
+   "dodge": 5,
+   "cooldown_reduction": 12
+  },
+  "skills": {
+   "basic": [
+    "Đạn Ma Pháp",
+    "Bắn năng lượng gây sát thương phép lên một mục tiêu."
+   ],
+   "passive": [
+    "Dẫn Lưu Ma Lực",
+    "Dùng kỹ năng tích Ma Lực, tăng sát thương phép ở lượt kế tiếp."
+   ],
+   "element": [
+    "Ma Pháp Bóng Tối",
+    "Gây sát thương phép hệ lên nhiều mục tiêu."
+   ],
+   "ultimate": [
+    "Thiên Tai Nguyên Tố",
+    "Giải phóng đại thuật hệ, gây sát thương phép diện rộng."
+   ]
+  },
+  "frame_hint": "Tím đen, khói và phù văn"
+ },
+ {
+  "id": 39,
+  "code": "MON-039",
+  "name": "Dạ Hồ Huyễn Ảnh",
+  "element": "Bóng Tối",
+  "element_code": "DARK",
+  "role": "Bruiser",
+  "rarity": "R",
+  "species": "Cáo đêm",
+  "asset_filename": "mon_039.png",
+  "stats": {
+   "hp": 1150,
+   "atk": 138,
+   "def_": 69,
+   "spd": 100,
+   "luck": 11,
+   "crit_rate": 11,
+   "dodge": 6,
+   "cooldown_reduction": 11
+  },
+  "skills": {
+   "basic": [
+    "Trọng Kích",
+    "Gây sát thương vật lý mạnh lên một mục tiêu."
+   ],
+   "passive": [
+    "Càng Chiến Càng Mạnh",
+    "Nhận sát thương tích Nộ; đủ ngưỡng thì tăng ATK lượt kế tiếp."
+   ],
+   "element": [
+    "Cuồng Nộ Bóng Tối",
+    "Gây sát thương hệ và tăng DEF bản thân."
+   ],
+   "ultimate": [
+    "Bá Chủ Chiến Trường",
+    "Gây sát thương diện rộng; tăng theo HP đã mất trong giới hạn cân bằng."
+   ]
+  },
+  "frame_hint": "Tím đen, khói và phù văn"
+ },
+ {
+  "id": 40,
+  "code": "MON-040",
+  "name": "Bóng Nhỏ Hư Không",
+  "element": "Bóng Tối",
+  "element_code": "DARK",
+  "role": "DPS",
+  "rarity": "N",
+  "species": "Tinh linh bóng tối nhỏ",
+  "asset_filename": "mon_040.png",
+  "stats": {
+   "hp": 1000,
+   "atk": 120,
+   "def_": 60,
+   "spd": 100,
+   "luck": 13,
+   "crit_rate": 18,
+   "dodge": 7,
+   "cooldown_reduction": 13
+  },
+  "skills": {
+   "basic": [
+    "Trảm Kích",
+    "Gây sát thương vật lý lên một mục tiêu."
+   ],
+   "passive": [
+    "Bản Năng Săn Mồi",
+    "Khi tấn công, có cơ hội tăng ATK trong 1 lượt."
+   ],
+   "element": [
+    "Bộc Phát Nguyên Tố",
+    "Gây sát thương hệ lên mục tiêu và có cơ hội gây Suy Yếu."
+   ],
+   "ultimate": [
+    "Tuyệt Kỹ Diệt Địch",
+    "Tung đòn mạnh lên một mục tiêu; sát thương tăng theo ATK."
+   ]
+  },
+  "frame_hint": "Tím đen, khói và phù văn"
+ }
+]
